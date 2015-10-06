@@ -5,3 +5,5 @@ The script will function to extract the unique values from a column from a .csv 
 
 ## List of dependencies
 bash shell
+
+Example of how to use the script below
